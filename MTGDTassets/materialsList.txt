@@ -1,1 +1,13 @@
+FLOORING:
+1. [CARPET/TILES] https://ambientcg.com/view?id=Tiles052 
 
+FURNITURE:
+1. [BLACK METAL] https://ambientcg.com/view?id=Metal028
+2. [WOODEN] https://ambientcg.com/view?id=Wood092
+3. [WHITE PLASTIC] https://ambientcg.com/view?id=Plastic010
+
+WALL:
+1. [BEIGE BRICK] https://ambientcg.com/view?id=Bricks093
+
+CEILING:
+1. [BEIGE SQUARE] https://ambientcg.com/view?id=PavingStones136
